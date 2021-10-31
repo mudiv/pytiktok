@@ -8,5 +8,3 @@
  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=muntazir-halim&hide=ruby,perl&hide_border=true" /> 
 </p>
 
-
-A simple small project that I created to make it easier to download TikTok videos without a watermark with complete ease
