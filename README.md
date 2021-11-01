@@ -19,7 +19,7 @@ from pytiktok import Tikvideo
 Video = Tikvideo()
 
 
-k = Video.tiktok("https://www.tiktok.com/@shib_x/video/6986742592985648390?sender_device=mobile&sender_web_id=7002607198221338117&is_from_webapp=v1&is_copy_url=0",True)
+k = Video.tiktok("https://www.tiktok.com/@lama.shreif/video/7000103929446960386?sender_device=mobile&sender_web_id=7002607198221338117&is_from_webapp=v1&is_copy_url=0",True)
 
 print(k["ok"])
 
